@@ -1,4 +1,4 @@
-# Video-Coding-Studio
+# Vibe-Coding-Studio
 A knowledge base for AI coding tools, including settings, skills, agent definitions, and workflow templates.
 
 
